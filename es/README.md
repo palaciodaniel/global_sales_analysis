@@ -1,6 +1,6 @@
 # Análisis de Ventas Globales
 
-[[ ENGLISH VERSION ](https://github.com/palaciodaniel/global_sales_analysis/blob/main/README.md)]
+[[ **ENGLISH VERSION** ](https://github.com/palaciodaniel/global_sales_analysis/blob/main/README.md)]
 
 **IMPORTANTE: Al momento de publicar este repositorio, GitHub no tiene la capacidad de reproducir los gráficos interactivos del PASO 4B, por lo cual se ruega usar el enlace provisto renglones abajo, ya que el mismo hace uso de NBViewer.**
 
