@@ -1,5 +1,7 @@
 # Análisis de Ventas Globales
 
+[[ ENGLISH VERSION ](https://github.com/palaciodaniel/global_sales_analysis/blob/main/README.md)]
+
 **IMPORTANTE: Al momento de publicar este repositorio, GitHub no tiene la capacidad de reproducir los gráficos interactivos del PASO 4B, por lo cual se ruega usar el enlace provisto renglones abajo, ya que el mismo hace uso de NBViewer.**
 
 Este proyecto trata sobre una cadena de supermercados internacional, para la cual se realizó un complejo análisis de datos en relación a sus ventas, por lo que fue una excelente oportunidad para demostrar mis habilidades en la obtención y transmisión de información clave en una situación de negocios. 
