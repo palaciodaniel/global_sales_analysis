@@ -22,12 +22,12 @@ Finally, it must be noted that this project was made in a period of one week, so
 
 ## Notebook List
 
-- **[PASO 1 - Uniendo Datasets "Customer" & "Cities"](https://github.com/palaciodaniel/global_sales_analysis/blob/main/es/PASO%201%20-%20Uniendo%20Datasets%20Customer%20%26%20Cities.ipynb)**
-- **[PASO 2A - Análisis de Dataset "Sales 2012"](https://github.com/palaciodaniel/global_sales_analysis/blob/main/es/PASO%202A%20-%20Analisis%20de%20Dataset%20Sales%202012.ipynb)**
-- **[PASO 2B - Análisis de Dataset "Sales 2013-14"](https://github.com/palaciodaniel/global_sales_analysis/blob/main/es/PASO%202B%20-%20Analisis%20de%20Dataset%20Sales%202013-14.ipynb)**
-- **[PASO 3 - Creando Dataset Final](https://github.com/palaciodaniel/global_sales_analysis/blob/main/es/PASO%203%20-%20Creando%20Dataset%20Final.ipynb)**
-- **[PASO 4A - Visualizaciones Temporales](https://nbviewer.org/github/palaciodaniel/global_sales_analysis/blob/main/es/PASO%204A%20-%20Visualizaciones%20Temporales.ipynb)**
-- **[PASO 4B - Visualizaciones Espaciales [Interactivas]](https://nbviewer.org/github/palaciodaniel/global_sales_analysis/blob/main/es/PASO%204B%20-%20Visualizaciones%20Espaciales%20%5BInteractivas%5D.ipynb)**
+- **[STEP 1 - Joining "Customer" & "Cities" Datasets](https://github.com/palaciodaniel/global_sales_analysis/blob/main/STEP%201%20-%20Joining%20Customer%20%26%20Cities%20Datasets.ipynb)**
+- **[STEP 2A - Dataset Analysis - "Sales 2012"](https://github.com/palaciodaniel/global_sales_analysis/blob/main/STEP%202A%20-%20Dataset%20Analysis%20-%20Sales%202012.ipynb)**
+- **[STEP 2B - Dataset Analysis - "Sales 2013-14"](https://github.com/palaciodaniel/global_sales_analysis/blob/main/STEP%202B%20-%20Dataset%20Analysis%20-%20Sales%202013-14.ipynb)**
+- **[STEP 3 - Creating Final Dataset](https://github.com/palaciodaniel/global_sales_analysis/blob/main/STEP%203%20-%20Creating%20Final%20Dataset.ipynb)**
+- **[STEP 4A - Temporal Visualizations](https://github.com/palaciodaniel/global_sales_analysis/blob/main/STEP%204A%20-%20Temporal%20Visualizations.ipynb)**
+- **[STEP 4B - Spatial Visualizations [Interactive]](https://nbviewer.org/github/palaciodaniel/global_sales_analysis/blob/main/STEP%204B%20-%20Spatial%20Visualizations%20%5BInteractive%5D.ipynb)**
 
 ## Credits
 
